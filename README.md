@@ -1,3 +1,3 @@
 # wwcalculator
 
-https://millejorgsholm.github.io/wwcalculator/
+My calculator: https://millejorgsholm.github.io/wwcalculator/
